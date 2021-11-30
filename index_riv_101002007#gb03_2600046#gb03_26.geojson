@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "index_riv_101002007#gb03_2600046#gb03_26",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4612" } },
+"features": [
+{ "type": "Feature", "properties": { "W05_001": "860604", "W05_002": "8606040182", "W05_003": "2", "W05_004": "鴨川", "W05_005": "3", "W05_006": "1", "W05_007": "#gb03_2604909", "W05_008": "#gb03_2604762", "W05_009": "#gb03_2600046", "W05_010": "#gb03_2600049", "KEY_CODE": "26101002007", "PREF": "26", "CITY": "101", "S_AREA": "002007", "PREF_NAME": "京都府", "CITY_NAME": "北区", "S_NAME": "紫竹紫竹上堀川町", "KIGO_E": null, "HCODE": 8101, "AREA": 28251.005, "PERIMETER": 803.729, "H27KAxx_": 95, "H27KAxx_ID": 94, "KEN": "26", "KEN_NAME": "京都府", "SITYO_NAME": null, "GST_NAME": "京都市", "CSS_NAME": "北区", "KIHON1": "0020", "DUMMY1": "-", "KIHON2": "07", "KEYCODE1": "101002007", "KEYCODE2": "101002007", "AREA_MAX_F": "M", "KIGO_D": null, "N_KEN": null, "N_CITY": null, "KIGO_I": null, "MOJI": "紫竹紫竹上堀川町", "KBSUM": 3, "JINKO": 260, "SETAI": 119, "X_CODE": 135.75133, "Y_CODE": 35.05601, "KCODE1": "0020-07", "index_riv": "101002007#gb03_2600046#gb03_26" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 135.75119017352867, 35.057043626000322 ], [ 135.75133956, 35.05679791 ], [ 135.751750109999989, 35.05632152 ], [ 135.75175317, 35.05631874 ], [ 135.751820129417297, 35.056254992738367 ] ] ] } }
+]
+}
